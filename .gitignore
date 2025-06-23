@@ -1,0 +1,5 @@
+# Xcode artifacts
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
